@@ -1,5 +1,10 @@
 # CORE - Chopper Operations Resource Engine
 
+[![SPMP](https://img.shields.io/badge/SPMP-Project%20Plan-blue)](docs/SPMP.md)
+[![SDD](https://img.shields.io/badge/SDD-Design%20Doc-green)](docs/SDD.md)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Version](https://img.shields.io/badge/Version-0.0.1%20-orange.svg)](Version)
+
 Core is a personal web-based application created to streamline and centralize daily operations and task for select
 stores.  It was developed to unify previously separate tools like lane assignments, safe count tracking, lottery ticket 
 logging, and internal documentation into a single interface for improved efficiency, accountability, and ease of use.
