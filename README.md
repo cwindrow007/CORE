@@ -6,10 +6,10 @@
 [![Version](https://img.shields.io/badge/Version-0.0.1%20-orange.svg)](Version)
 
 Core is a personal web-based application created to streamline and centralize daily operations and task for select
-stores.  It was developed to unify previously separate tools like lane assignments, safe count tracking, lottery ticket 
+stores.  It was developed to unify previously separate tools like lane assignments, safe count tracking, lottery ticket
 logging, and internal documentation into a single interface for improved efficiency, accountability, and ease of use.
 
->**Important:** This project is a personal initiative by Christopher Windrow. It is **not affiliated with or endorsed 
+>**Important:** This project is a personal initiative by Christopher Windrow. It is **not affiliated with or endorsed
 > by Price Chopper, Market 32, or Golub Corporation**.
 
 ---
