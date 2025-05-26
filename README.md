@@ -4,14 +4,16 @@
 [![SDD](https://img.shields.io/badge/SDD-Design%20Doc-green)](docs/SDD.md)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-INFDEV%20-orange.svg)](Version)
+>**Important:** This project is a personal initiative by Christopher Windrow. It is **not affiliated with or endorsed
+> by Price Chopper, Market 32, or Golub Corporation**.
+
 
 Core is a personal web-based application created to streamline and centralize daily operations and task for select
 stores.  It was developed to unify previously separate tools like lane assignments, safe count tracking, lottery ticket
 logging, and internal documentation into a single interface for improved efficiency, accountability, and ease of use.
 
+> **Note:** CORE is currently in **infdev** (infinite development) stage. Features are experimental, the structure may change, and there is no guaranteed backward compatibility. A formal version (`v1.0.0`) will be released once core modules are stable.
 
->**Important:** This project is a personal initiative by Christopher Windrow. It is **not affiliated with or endorsed
-> by Price Chopper, Market 32, or Golub Corporation**.
 
 ---
 
