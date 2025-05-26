@@ -38,22 +38,24 @@ ___
 - Logs and summarizes AM/PM Counts.
 - Admin access for managing ticket types
 
-### Resource Libary
+### Resource Library
 - Upload and view internal documentation (PDFs, spreadsheets, instructions)
-- Includes user guides, department transfer walkthroughs, and reference materials
+- Includes user guides, department transfer walkthrough, and reference materials
 ___
 
 ## Tech Stack
 
 | Layer         | Technology Used                    | Purpose                              |
-|---------------|-------------------------------------|--------------------------------------|
+|---------------|-------------------------------------|-------------------------------------|
 | **Frontend**  | React + TypeScript                 | Component-based UI framework         |
 | **Styling**   | TailwindCSS                        | Rapid and responsive design          |
 | **Backend**   | Firebase (Auth + Firestore)        | Authentication & realtime database   |
 |               | Optional: Node.js + Express        | Custom API layer (if needed later)   |
 | **OCR Engine**| Tesseract.js                       | In-browser OCR for lottery tickets   |
 | **Hosting**   | Firebase Hosting or Vercel         | Free, scalable deployment            |
-| **Storage**   | Firebase Storage or Google Drive API| For storing internal documents       |
+| **Storage**   | Firebase Storage or Google Drive API| For storing internal documents      |
+
+
 ___
 
 ### Project Structure Planed
